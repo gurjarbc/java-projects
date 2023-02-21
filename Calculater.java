@@ -23,7 +23,7 @@ class Calcul{
         frame.add(ta1);
         
        
-        frame.getContentPane().setBackground(Color.pink);
+        frame.getContentPane().setBackground(Color.yellow);
         JPanel jp1 = new JPanel(new GridLayout(4,4));
         frame.add(jp1);
         jp1.setBounds(0,105,295,300);
